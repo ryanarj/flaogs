@@ -1,0 +1,2 @@
+# flaogs
+Simple flask blog
