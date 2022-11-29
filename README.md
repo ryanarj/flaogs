@@ -3,7 +3,7 @@ Simple flask blog
 
 TODO:
 
-- [ ] Flask 
+- [x] Flask 
   - [ ] Create blog
   - [ ] Update blog
   - [ ] Delete blog
